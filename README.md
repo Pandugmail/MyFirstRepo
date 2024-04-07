@@ -1,2 +1,2 @@
 # MyFirstRepo
-My FIrst Repo
+This is my first repo to practise my sample code
